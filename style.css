@@ -363,6 +363,7 @@ html[data-theme="dark"] .theme-toggle .icon-moon{display:block;}
 /* ===== SERVICES SPLIT ===== */
 .services{
   background:var(--bg);
+  padding-top:60px;
 }
 .split{
   display:grid;
