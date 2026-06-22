@@ -212,7 +212,7 @@ html[data-theme="dark"] .theme-toggle .icon-moon{display:block;}
 /* ===== HERO (homepage only) ===== */
 .hero{
   position:relative;
-  padding:200px 0 120px;
+  padding:200px 0 60px;
   overflow:hidden;
 }
 .hero-halftone{
@@ -287,7 +287,7 @@ html[data-theme="dark"] .theme-toggle .icon-moon{display:block;}
 .hero-stats{
   display:flex;
   gap:56px;
-  margin-top:88px;
+  margin-top:56px;
   padding-top:32px;
   border-top:1px solid var(--line);
   flex-wrap:wrap;
@@ -363,6 +363,7 @@ html[data-theme="dark"] .theme-toggle .icon-moon{display:block;}
 /* ===== SERVICES SPLIT ===== */
 .services{
   background:var(--bg);
+  padding-top:60px;
 }
 .split{
   display:grid;
